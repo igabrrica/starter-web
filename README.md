@@ -1,9 +1,13 @@
 # Starter Web Repo
 
-## Introduction
-
 This is a simple website project for
 showing how to use Git and Github together.
+
+## Introduction
+
+This is example is to show differnt parts
+of the Git repository and various commands
+using a web preoject.
 
 ## Purpose
 
